@@ -1,2 +1,3 @@
 Launcher by ShonP40 and Jegox
 Website by ShonP40
+Original design, concept, UI, etc. taken from jhalt & CheatBreaker's original development team. Not endorsed, affiliated, or approved by them in any way.
