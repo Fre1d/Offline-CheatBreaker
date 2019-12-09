@@ -1,0 +1,12 @@
+{
+  "minimumVersion" : 1,
+  "packages" : [
+    {
+      "title" : "Offline CheatBreaker",
+      "name" : "Offline CheatBreaker",
+      "version" : "2.2.0",
+      "location" : "offline-cheatbreaker.json",
+      "priority" : 0
+    }
+  ]
+}
