@@ -9,4 +9,4 @@ You can also ask questions using the Question lable.
 For more information about Offline CheatBreaker and an download link visit our [website](https://OfflineCheatBreaker.tk).
 
 
-© 2019 Offline CheatBreaker
+© 2019-2020 Offline CheatBreaker

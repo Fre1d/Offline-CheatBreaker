@@ -3,4 +3,4 @@ CheatBreaker is a modpack and client-side anticheat combined! In most cases, Che
 For more information about Offline CheatBreaker visit our [website](https://OfflineCheatBreaker.tk).
 
 
-© 2019 Offline CheatBreaker
+© 2019-2020 Offline CheatBreaker
