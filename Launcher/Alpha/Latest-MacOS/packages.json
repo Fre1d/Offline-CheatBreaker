@@ -4,8 +4,15 @@
     {
       "title" : "Offline CheatBreaker",
       "name" : "Offline CheatBreaker",
-      "version" : "2.4.3",
+      "version" : "2.5.0",
       "location" : "offline-cheatbreaker.json",
+      "priority" : 0
+    },
+    {
+      "title" : "Offline CheatBreaker 1.8.9",
+      "name" : "Offline CheatBreaker 1.8.9",
+      "version" : "2.0.0",
+      "location" : "offline-cheatbreaker-1.8.9.json",
       "priority" : 0
     }
   ]
