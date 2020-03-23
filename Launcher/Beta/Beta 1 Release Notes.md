@@ -29,4 +29,4 @@
 
 To download this launcher, go to the download page on our website, click on `Windows` and then on `DOWNLOAD (BETA)`.
 
-**__Website:__**https://offlinecheatbreaker.com
+**Website:** https://offlinecheatbreaker.com
