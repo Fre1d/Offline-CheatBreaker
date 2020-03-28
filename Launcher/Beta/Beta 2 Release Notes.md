@@ -1,4 +1,14 @@
-**__Beta 1 Release notes:__**
+**__Beta 2 Release notes:__**
+
+**__Changelog:__**
+- Built in Java.
+- Allowed Windows to display its animations when opening, closing, minimizing and maximizing the launcher.
+- Removed MineHQ from the quick join menu (because GoldenPvP Network closed it).
+- Made the launcher movable.
+- Removed unnecessary code and files from the launcher.
+- Improved the installer.
+- Added a uninstaller.
+- Fixed an issue that caused the launcher to look transparent on some PC's.
 
 **__What's working__**
 - Launching 1.7.10 & 1.8.9.
@@ -23,7 +33,7 @@
 - Launching will take longer than in our stable launcher because this launcher re-downloads the client on every launch.
 - This launcher uses the normal MC folder so all your Offline CheatBreaker 1.7.10 settings, texture packs, worlds and servers won't be transferred.
 - This beta is only available for Windows currently.
-- To uninstall this launcher you'll need to go to your `%appdata%` folder and delete the `Offline CheatBreaker` folder.
+- To uninstall this launcher you'll need to open the Windows Control Panel, go to `Uninstall a program` and double click `Offline CheatBreaker Beta`.
 
 **__Download:__**
 
