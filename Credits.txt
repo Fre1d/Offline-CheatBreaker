@@ -4,3 +4,4 @@ Website edited by ShonP40
 Original design, concept, UI, etc. taken from jhalt & CheatBreaker's original development team. Not endorsed, affiliated, or approved by them in any way.
 Lunar Client 1.8.9 Original design, concept, UI, etc. taken from Moonsworth & Lunar Client's original development team. Not endorsed, affiliated, or approved by them in any way.
 Offline Lunar Client 1.8.9 was reskined by Tellinq and ShonP40 to create Offline CheatBreaker 1.8.9.
+Bukkit API by l3ilko Jr.
