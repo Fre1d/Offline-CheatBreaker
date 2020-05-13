@@ -1,10 +1,10 @@
-**__Beta 3 Release notes:__**
+**__Beta 4 Release notes:__**
 
 **__Changelog:__**
-- Replaced the built in Java with the same Java that was used for CheatBreaker back in 2018 to improve stability.
-- Made the GoldenPvP Network logo in the quick connect menu work (not that useful as of now because you still need to select your account ingame).
-- The launch button will now say `DOWNLOADING...` after clicking on it.
-- Added the servers, settings and about pages
+- Replaced the solid grey background with the original background from the 2018 CB launcher.
+- Made the launcher save logs for easier diagnostics if needed.
+- Made the top menu buttons not draggable.
+- Now using the fonts from the 2018 CB launcher.
 
 **__What's working__**
 - Launching 1.7.10 & 1.8.9.
@@ -23,7 +23,7 @@
 - Working RAM slider
 
 **__Notes__**
-- This beta doesn't have launcher auto updates. (You'll need to download the second beta manually when it will be released).
+- This beta doesn't have launcher auto updates. (You'll need to download the next beta manually when it will be released).
 - To play you'll need to log into your account in the normal MC launcher or you won't be able to use multiplayer on 1.7.10.
 - After launching 1.7.10 you'll need to select your account from the ingame account switcher in the top right corner.
 - The max RAM amount is set to 2GB.
